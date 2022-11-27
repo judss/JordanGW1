@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JordanGW1
 - 👀 I’m interested in ... C#, SQL, Javascript
 - 🌱 I’m currently learning ... .Net7 Web API in more depth
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on ... DotNet Projects
+- 📫 How to reach me ... @jordanwallis_ on Twitter
 
 <!---
 JordanGW1/JordanGW1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
